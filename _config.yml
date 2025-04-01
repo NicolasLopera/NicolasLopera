@@ -1,6 +1,6 @@
 title: Nicolas Lopera
 logo: /Assets/img/Nicko_Image.jpeg
 #description: below
-show_downloads: False
+show_downloads: true
 theme: jekyll-theme-minimal
 
